@@ -1,5 +1,6 @@
 ## Hello 👋 Welcome to my repository
-![](https://github.com/amvalseg/icons_readme/blob/main/banner.jpg)
+![](![banner github](https://github.com/user-attachments/assets/c72ae298-f518-489f-87d8-8e875a484401)
+)
 <!--
 **amvalseg/amvalseg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
